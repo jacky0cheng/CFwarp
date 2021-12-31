@@ -44,7 +44,7 @@ WARP+账户对速度没有什么影响，装B可以！大家回车跳过就行�
 
 最新一键脚本：
 ```
-wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/jacky0cheng/CFwarp/CFwarp.sh && chmod +x CFwarp.sh && ./CFwarp.sh
+wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/kkkyg/CFwarp/CFwarp.sh && chmod +x CFwarp.sh && ./CFwarp.sh
 ```
 
 进入脚本快捷方式 ```bash CFwarp.sh```
